@@ -99,8 +99,8 @@
 <a href="https://pub.dev/packages/unified_face_camera">
   <img src="https://img.shields.io/pub/points/unified_face_camera?style=for-the-badge&logo=dart&logoColor=white&label=pub%20points&color=7928CA" />
 </a>
-<a href="https://pub.dev/packages/unified_face_camera">
-  <img src="https://img.shields.io/pub/popularity/unified_face_camera?style=for-the-badge&logo=dart&logoColor=white&label=popularity&color=FF0080" />
+<a href="https://github.com/rudramadhab22/unified_face_capture">
+   <img src="https://img.shields.io/badge/GitHub-Source-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -117,8 +117,8 @@
 <a href="https://pub.dev/packages/device_guard">
   <img src="https://img.shields.io/pub/points/device_guard?style=for-the-badge&logo=dart&logoColor=white&label=pub%20points&color=7928CA" />
 </a>
-<a href="https://pub.dev/packages/device_guard">
-  <img src="https://img.shields.io/pub/popularity/device_guard?style=for-the-badge&logo=dart&logoColor=white&label=popularity&color=FF0080" />
+<a href="https://github.com/rudramadhab22/device_guard">
+  <img src="https://img.shields.io/badge/GitHub-Source-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
