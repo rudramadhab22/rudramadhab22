@@ -14,7 +14,9 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+<a href="mailto:rudramadhab007@gmail.com"><img src="https://img.shields.io/badge/Email-rudramadhab007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://instagram.com/rr_rudra_pradhan"><img src="https://img.shields.io/badge/Instagram-rr__rudra__pradhan-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://github.com/RudraMadhab"><img src="https://img.shields.io/badge/GitHub-RudraMadhab-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
 
 </div>
 
@@ -51,30 +53,49 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
 
 ## 🛠️ Tech Arsenal
+<div align="center"><i>Click any icon to visit that technology's official site 👇</i></div>
+<br/>
 
 <div align="center">
 
 **☕ Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark" />
+
+<a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
+<a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
+<a href="https://expressjs.com"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
 
 <br/><br/>
 
 **📱 Mobile**
-<br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark" />
+
+<a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
+<a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
+<a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+<a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/></a>
 
 <br/><br/>
 
 **🌐 Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=angular,js,ts,html,css&theme=dark" />
+
+<a href="https://angular.io"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
 
 <br/><br/>
 
 **🗄️ Database & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,kubernetes,git,githubactions&theme=dark" />
+
+<a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+<a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/></a>
+<a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+<a href="https://kubernetes.io"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/></a>
 
 </div>
 
@@ -132,7 +153,7 @@
 
 </div>
 
-> 💡 The pub.dev badges (version, likes, points, popularity) are **live** — they'll auto-update straight from pub.dev. The Maven badge links to your `mvnrepository.com` search since Maven's live shield needs an exact `groupId:artifactId` — swap in `https://img.shields.io/maven-central/v/<groupId>/runtimelens?label=Maven%20Central&style=for-the-badge&logo=apachemaven` once you have that, and it'll go live too.
+> 💡 The pub.dev badges (version, likes, points, popularity) are **live** and pull straight from pub.dev. The Maven badge links to your `mvnrepository.com` search — send me the exact `groupId:artifactId` and I'll wire in a fully live version badge too.
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
 
@@ -155,8 +176,6 @@
 
 </div>
 
-> 💡 Repo names must exactly match your real GitHub repo names (case-sensitive) — `RuntimeLens`, `DeviceGuard`, `UnifiedFaceCamera` — or the pin cards render blank.
-
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
 
 ## 📊 GitHub Analytics
@@ -164,7 +183,7 @@
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RudraMadhab&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000&title_color=FF0080&icon_color=00DFD8&text_color=e6e6e6&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RudraMadhab&theme=react-dark&hide_border=true&background=00000000&ring=FF0080&fire=00DFD8&currStreakLabel=00DFD8" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=RudraMadhab&theme=dark&hide_border=true&background=00000000&ring=FF0080&fire=00DFD8&currStreakLabel=00DFD8" />
 
 <br/>
 
@@ -182,20 +201,6 @@
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RudraMadhab&theme=react-dark&hide_border=true&bg_color=00000000&color=00DFD8&line=FF0080&point=ffffff&area=true&area_color=7928CA" width="90%"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-FF0080?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-7928CA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://pub.dev/publishers/YOUR_PUBLISHER_DOMAIN/packages"><img src="https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DFD8,35:0070F3,70:7928CA,100:FF0080&height=150&section=footer"/>
