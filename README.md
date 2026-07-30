@@ -1,206 +1,176 @@
-<!-- ========================================================= -->
+```text
+██████╗ ██╗   ██╗██████╗ ██████╗  █████╗
+██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔══██╗
+██████╔╝██║   ██║██║  ██║██████╔╝███████║
+██╔══██╗██║   ██║██║  ██║██╔══██╗██╔══██║
+██║  ██║╚██████╔╝██████╔╝██║  ██║██║  ██║
+╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
 
-<!--                    GITHUB PROFILE README                  -->
+██████╗  █████╗ ██████╗ ██╗  ██╗ █████╗ ██████╗  █████╗ ██████╗
+██╔══██╗██╔══██╗██╔══██╗██║  ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗
+██████╔╝███████║██║  ██║███████║███████║██║  ██║███████║██████╔╝
+██╔══██╗██╔══██║██║  ██║██╔══██║██╔══██║██║  ██║██╔══██║██╔══██╗
+██║  ██║██║  ██║██████╔╝██║  ██║██║  ██║██████╔╝██║  ██║██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═════╝
 
-<!--                    PART 1 OF 4                            -->
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<!-- ========================================================= -->
+                    🚀 SOFTWARE DEVELOPER
+             ☕ Java • 🌱 Spring Boot • 📱 Flutter
+       💜 Kotlin • ⚡ Jetpack Compose • ☁️ Cloud & DevOps
 
-<div align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# Hi 👋 I'm Rudra Madhab
+                           🔥 LIVE STATUS
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=900&lines=Java+Developer;Spring+Boot+Developer;Flutter+Developer;Kotlin+%26+Jetpack+Compose;Open+Source+Contributor;Microservices+Developer;Building+RuntimeLens" />
+👀 Profile Views
+⭐ GitHub Followers
+🏆 GitHub Stars
+🚀 Open Source Projects
+📦 Maven Central Packages
+📱 pub.dev Packages
 
-<br>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<img src="https://komarev.com/ghpvc/?username=rudramadhab22&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+                             👨‍💻 ABOUT ME
 
-<img src="https://img.shields.io/github/followers/rudramadhab22?style=for-the-badge&logo=github"/>
+Passionate Software Developer focused on Java, Spring Boot,
+Flutter, Kotlin, Jetpack Compose, Cloud Technologies,
+and Open Source Software.
 
-<img src="https://img.shields.io/github/stars/rudramadhab22?style=for-the-badge"/>
+Building production-ready applications with clean architecture,
+high performance, and scalable solutions.
 
-</div>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
+                     🚀 FEATURED OPEN SOURCE
 
-# 💫 About Me
+☕ RuntimeLens
+Zero-Code Observability & Diagnostics for Spring Boot
 
-```java
-public class RudraMadhab {
+📦 Maven Repository
+https://mvnrepository.com/search?q=runtimelens
 
-    private final String role = "Software Developer";
+──────────────────────────────────────────────────────────────
 
-    private final String passion =
-            "Building scalable software and open-source projects";
+📱 Device Guard
 
-    private final String currentProject =
-            "RuntimeLens";
+Flutter Security Plugin
 
-    private final String[] backend = {
-            "Java",
-            "Spring Boot",
-            "Spring MVC",
-            "Hibernate",
-            "JPA",
-            "REST APIs",
-            "Microservices"
-    };
+https://pub.dev/packages/device_guard
 
-    private final String[] mobile = {
-            "Flutter",
-            "Dart",
-            "Kotlin",
-            "Jetpack Compose"
-    };
+──────────────────────────────────────────────────────────────
 
-    private final String[] frontend = {
-            "Angular",
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "Thymeleaf"
-    };
+📷 Unified Face Camera
 
-    private final String[] database = {
-            "PostgreSQL",
-            "MySQL"
-    };
+Flutter Camera & Face Detection Plugin
 
-    private final String[] devOps = {
-            "Docker",
-            "Kubernetes",
-            "Git",
-            "GitHub",
-            "Maven",
-            "Jenkins"
-    };
+https://pub.dev/packages/unified_face_camera
 
-}
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                          🛠 TECH STACK
+
+☕ Backend
+
+Java
+Spring Boot
+Hibernate
+JPA
+REST APIs
+Microservices
+
+──────────────────────────────────────────────────────────────
+
+🌐 Frontend
+
+Angular
+HTML5
+CSS3
+JavaScript
+Thymeleaf
+
+──────────────────────────────────────────────────────────────
+
+📱 Mobile
+
+Flutter
+Dart
+Kotlin
+Jetpack Compose
+
+──────────────────────────────────────────────────────────────
+
+🗄 Database
+
+PostgreSQL
+MySQL
+
+──────────────────────────────────────────────────────────────
+
+☁️ DevOps & Cloud
+
+Docker
+Kubernetes
+Git
+GitHub
+Jenkins
+Maven
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                      📊 GITHUB ANALYTICS
+
+⭐ GitHub Stats
+
+🔥 Contribution Streak
+
+📈 Activity Graph
+
+🏆 GitHub Trophies
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                    🌟 FEATURED REPOSITORIES
+
+⭐ RuntimeLens
+
+⭐ Device Guard
+
+⭐ Unified Face Camera
+
+⭐ Spring Boot Projects
+
+⭐ Flutter Applications
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                        🤝 CONNECT WITH ME
+
+🐙 GitHub
+
+💼 LinkedIn
+
+🌐 Portfolio
+
+📧 Email
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                        💭 FAVORITE QUOTE
+
+"Focus on your duty, not on the outcome."
+
+                     — Lord Krishna
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+███████╗███╗   ██╗██████╗
+██╔════╝████╗  ██║██╔══██╗
+█████╗  ██╔██╗ ██║██║  ██║
+██╔══╝  ██║╚██╗██║██║  ██║
+███████╗██║ ╚████║██████╔╝
+╚══════╝╚═╝  ╚═══╝╚═════╝
+
+            ⭐ Thanks for visiting my profile ⭐
 ```
-
----
-
-# 🚀 Tech Stack
-
-## ☕ Backend
-
-<p align="center">
-
-<a href="https://www.java.com">
-<img src="https://skillicons.dev/icons?i=java" height="60"/>
-</a>
-
-<a href="https://spring.io/projects/spring-boot">
-<img src="https://skillicons.dev/icons?i=spring" height="60"/>
-</a>
-
-<a href="https://hibernate.org/">
-<img src="https://skillicons.dev/icons?i=hibernate" height="60"/>
-</a>
-
-<a href="https://maven.apache.org">
-<img src="https://skillicons.dev/icons?i=maven" height="60"/>
-</a>
-
-</p>
-
----
-
-## 📱 Mobile Development
-
-<p align="center">
-
-<a href="https://flutter.dev">
-<img src="https://skillicons.dev/icons?i=flutter" height="60"/>
-</a>
-
-<a href="https://dart.dev">
-<img src="https://skillicons.dev/icons?i=dart" height="60"/>
-</a>
-
-<a href="https://kotlinlang.org">
-<img src="https://skillicons.dev/icons?i=kotlin" height="60"/>
-</a>
-
-<a href="https://developer.android.com/jetpack/compose">
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 🌐 Frontend
-
-<p align="center">
-
-<a href="https://angular.dev">
-<img src="https://skillicons.dev/icons?i=angular" height="60"/>
-</a>
-
-<a href="https://developer.mozilla.org/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" height="60"/>
-</a>
-
-<a href="https://developer.mozilla.org/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css" height="60"/>
-</a>
-
-<a href="https://developer.mozilla.org/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=javascript" height="60"/>
-</a>
-
-</p>
-
----
-
-## 🗄️ Database
-
-<p align="center">
-
-<a href="https://www.postgresql.org">
-<img src="https://skillicons.dev/icons?i=postgres" height="60"/>
-</a>
-
-<a href="https://www.mysql.com">
-<img src="https://skillicons.dev/icons?i=mysql" height="60"/>
-</a>
-
-</p>
-
----
-
-## ⚙️ DevOps
-
-<p align="center">
-
-<a href="https://www.docker.com">
-<img src="https://skillicons.dev/icons?i=docker" height="60"/>
-</a>
-
-<a href="https://kubernetes.io">
-<img src="https://skillicons.dev/icons?i=kubernetes" height="60"/>
-</a>
-
-<a href="https://git-scm.com">
-<img src="https://skillicons.dev/icons?i=git" height="60"/>
-</a>
-
-<a href="https://github.com">
-<img src="https://skillicons.dev/icons?i=github" height="60"/>
-</a>
-
-<a href="https://www.jenkins.io">
-<img src="https://skillicons.dev/icons?i=jenkins" height="60"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-⭐ Scroll down for Featured Open Source Projects, GitHub Analytics, RuntimeLens, Flutter Plugins, Trophies, Contribution Graph, Contact & More ⭐
-
-</p>
