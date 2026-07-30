@@ -60,42 +60,42 @@
 
 **☕ Backend**
 
-<a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
-<a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
-<a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
-<a href="https://expressjs.com"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
+<a href="https://www.java.com"><img width="52" height="52" src="https://skillicons.dev/icons?i=java" title="Java"/></a>&nbsp;&nbsp;
+<a href="https://spring.io/projects/spring-boot"><img width="52" height="52" src="https://skillicons.dev/icons?i=spring" title="Spring Boot"/></a>&nbsp;&nbsp;
+<a href="https://nodejs.org"><img width="52" height="52" src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/></a>&nbsp;&nbsp;
+<a href="https://expressjs.com"><img width="52" height="52" src="https://skillicons.dev/icons?i=express" title="Express"/></a>
 
 <br/><br/>
 
 **📱 Mobile**
 
-<a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
-<a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
-<a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
-<a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/></a>
+<a href="https://flutter.dev"><img width="52" height="52" src="https://skillicons.dev/icons?i=flutter" title="Flutter"/></a>&nbsp;&nbsp;
+<a href="https://dart.dev"><img width="52" height="52" src="https://skillicons.dev/icons?i=dart" title="Dart"/></a>&nbsp;&nbsp;
+<a href="https://kotlinlang.org"><img width="52" height="52" src="https://skillicons.dev/icons?i=kotlin" title="Kotlin"/></a>&nbsp;&nbsp;
+<a href="https://developer.android.com/studio"><img width="52" height="52" src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio"/></a>
 
 <br/><br/>
 
 **🌐 Frontend**
 
-<a href="https://angular.io"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-<a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a href="https://angular.io"><img width="52" height="52" src="https://skillicons.dev/icons?i=angular" title="Angular"/></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="52" height="52" src="https://skillicons.dev/icons?i=js" title="JavaScript"/></a>&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org"><img width="52" height="52" src="https://skillicons.dev/icons?i=ts" title="TypeScript"/></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width="52" height="52" src="https://skillicons.dev/icons?i=html" title="HTML5"/></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img width="52" height="52" src="https://skillicons.dev/icons?i=css" title="CSS3"/></a>
 
 <br/><br/>
 
 **🗄️ Database & DevOps**
 
-<a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-<a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-<a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/></a>
-<a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-<a href="https://kubernetes.io"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
-<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-<a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/></a>
+<a href="https://www.postgresql.org"><img width="52" height="52" src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/></a>&nbsp;&nbsp;
+<a href="https://www.mysql.com"><img width="52" height="52" src="https://skillicons.dev/icons?i=mysql" title="MySQL"/></a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com"><img width="52" height="52" src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/></a>&nbsp;&nbsp;
+<a href="https://redis.io"><img width="52" height="52" src="https://skillicons.dev/icons?i=redis" title="Redis"/></a>&nbsp;&nbsp;
+<a href="https://www.docker.com"><img width="52" height="52" src="https://skillicons.dev/icons?i=docker" title="Docker"/></a>&nbsp;&nbsp;
+<a href="https://kubernetes.io"><img width="52" height="52" src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes"/></a>&nbsp;&nbsp;
+<a href="https://git-scm.com"><img width="52" height="52" src="https://skillicons.dev/icons?i=git" title="Git"/></a>&nbsp;&nbsp;
+<a href="https://github.com/features/actions"><img width="52" height="52" src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions"/></a>
 
 </div>
 
