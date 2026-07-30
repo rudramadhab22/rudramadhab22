@@ -127,37 +127,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00DFD8&height=8&section=header&animation=fadeIn"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00DFD8&height=8&section=header&animation=fadeIn"/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%93%88+Here's+where+the+numbers+live...;Stats+%C2%B7+Streaks+%C2%B7+Trophies+%C2%B7+Activity&font=Fira%20Code&center=true&width=600&height=40&duration=2500&pause=800&color=7928CA&vCenter=true&size=20&weight=600" alt="Typing SVG" />
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rudramadhab22&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0080&icon_color=00DFD8&text_color=e6e6e6&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=rudramadhab22&theme=dark&hide_border=true&background=0D1117&ring=FF0080&fire=00DFD8&currStreakLabel=00DFD8" />
-
-<br/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudramadhab22&layout=compact&theme=radical&title_color=FF0080&text_color=e6e6e6&border_color=7928CA&bg_color=0d1117" />
-
-</div>
-
-## 🏆 Trophy Room
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rudramadhab22&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudramadhab22&theme=react-dark&hide_border=true&bg_color=0D1117&color=00DFD8&line=FF0080&point=ffffff&area=true&area_color=7928CA" width="90%"/>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DFD8,35:0070F3,70:7928CA,100:FF0080&height=150&section=footer"/>
 
 <div align="center">
