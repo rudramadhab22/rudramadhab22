@@ -20,37 +20,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
-
-## 💫 About Me
-
-<table align="center">
-<tr>
-<td valign="top" width="55%">
-
-```yaml
-👨‍💻 name:      Rudra Madhab
-🧭 role:      Software Developer
-🎯 focus:
-  - 🏗️  Scalable backend systems & APIs
-  - 📱  Cross-platform mobile applications
-  - 🌐  Sleek, responsive frontend experiences
-  - 🚀  Open-source tools developers love
-📦 published: 3+ packages (pub.dev · Maven Central)
-🔭 building:  RuntimeLens
-💬 motto:     "Ship it, then perfect it."
-```
-
-</td>
-<td valign="top" width="45%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rudramadhab22&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0080&icon_color=00DFD8&text_color=e6e6e6&count_private=true" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00DFD8&height=8&section=header&animation=fadeIn"/>
 
 ## 🛠️ Tech Arsenal
 <div align="center"><i>Click any icon to visit that technology's official site 👇</i></div>
@@ -99,7 +69,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00DFD8&height=8&section=header&animation=fadeIn"/>
 
 ## 📦 Published Open-Source Packages
 
@@ -155,28 +125,13 @@
 
 > 💡 The pub.dev badges (version, likes, points, popularity) are **live** and pull straight from pub.dev. The Maven badge links to your `mvnrepository.com` search — send me the exact `groupId:artifactId` and I'll wire in a fully live version badge too.
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00DFD8&height=8&section=header&animation=fadeIn"/>
 
-## ⭐ Featured Open Source Projects
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00DFD8&height=8&section=header&animation=fadeIn"/>
 
 <div align="center">
-
-<a href="https://github.com/rudramadhab22/runtimelens">
-  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=rudramadhab22&repo=runtimelens&theme=radical&title_color=FF0080&icon_color=00DFD8&border_color=7928CA&bg_color=0d1117" />
-</a>
-<a href="https://github.com/rudramadhab22/device_guard">
-  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=rudramadhab22&repo=device_guard&theme=radical&title_color=FF0080&icon_color=00DFD8&border_color=7928CA&bg_color=0d1117" />
-</a>
-
-<br/>
-
-<a href="https://github.com/rudramadhab22/unified_face_capture">
-  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=rudramadhab22&repo=unified_face_capture&theme=radical&title_color=FF0080&icon_color=00DFD8&border_color=7928CA&bg_color=0d1117" />
-</a>
-
+<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%93%88+Here's+where+the+numbers+live...;Stats+%C2%B7+Streaks+%C2%B7+Trophies+%C2%B7+Activity&font=Fira%20Code&center=true&width=600&height=40&duration=2500&pause=800&color=7928CA&vCenter=true&size=20&weight=600" alt="Typing SVG" />
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
 
 ## 📊 GitHub Analytics
 
