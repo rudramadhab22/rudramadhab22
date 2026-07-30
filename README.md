@@ -44,7 +44,7 @@
 </td>
 <td valign="top" width="45%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rudramadhab22&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000&title_color=FF0080&icon_color=00DFD8&text_color=e6e6e6&count_private=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rudramadhab22&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0080&icon_color=00DFD8&text_color=e6e6e6&count_private=true" width="100%"/>
 
 </td>
 </tr>
@@ -161,17 +161,17 @@
 
 <div align="center">
 
-<a href="https://github.com/rudramadhab22/RuntimeLens">
-  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=rudramadhab22&repo=RuntimeLens&theme=synthwave&title_color=FF0080&icon_color=00DFD8&border_color=7928CA&bg_color=0d1117" />
+<a href="https://github.com/rudramadhab22/runtimelens">
+  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=rudramadhab22&repo=runtimelens&theme=radical&title_color=FF0080&icon_color=00DFD8&border_color=7928CA&bg_color=0d1117" />
 </a>
-<a href="https://github.com/rudramadhab22/DeviceGuard">
-  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=rudramadhab22&repo=DeviceGuard&theme=synthwave&title_color=FF0080&icon_color=00DFD8&border_color=7928CA&bg_color=0d1117" />
+<a href="https://github.com/rudramadhab22/device_guard">
+  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=rudramadhab22&repo=device_guard&theme=radical&title_color=FF0080&icon_color=00DFD8&border_color=7928CA&bg_color=0d1117" />
 </a>
 
 <br/>
 
-<a href="https://github.com/rudramadhab22/UnifiedFaceCamera">
-  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=rudramadhab22&repo=UnifiedFaceCamera&theme=synthwave&title_color=FF0080&icon_color=00DFD8&border_color=7928CA&bg_color=0d1117" />
+<a href="https://github.com/rudramadhab22/unified_face_capture">
+  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=rudramadhab22&repo=unified_face_capture&theme=radical&title_color=FF0080&icon_color=00DFD8&border_color=7928CA&bg_color=0d1117" />
 </a>
 
 </div>
@@ -182,25 +182,25 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rudramadhab22&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000&title_color=FF0080&icon_color=00DFD8&text_color=e6e6e6&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=rudramadhab22&theme=dark&hide_border=true&background=00000000&ring=FF0080&fire=00DFD8&currStreakLabel=00DFD8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rudramadhab22&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0080&icon_color=00DFD8&text_color=e6e6e6&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=rudramadhab22&theme=dark&hide_border=true&background=0D1117&ring=FF0080&fire=00DFD8&currStreakLabel=00DFD8" />
 
 <br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudramadhab22&layout=compact&theme=synthwave&title_color=FF0080&text_color=e6e6e6&border_color=7928CA&bg_color=00000000" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudramadhab22&layout=compact&theme=radical&title_color=FF0080&text_color=e6e6e6&border_color=7928CA&bg_color=0d1117" />
 
 </div>
 
 ## 🏆 Trophy Room
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rudramadhab22&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=rudramadhab22&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
 </div>
 
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudramadhab22&theme=react-dark&hide_border=true&bg_color=00000000&color=00DFD8&line=FF0080&point=ffffff&area=true&area_color=7928CA" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudramadhab22&theme=react-dark&hide_border=true&bg_color=0D1117&color=00DFD8&line=FF0080&point=ffffff&area=true&area_color=7928CA" width="90%"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DFD8,35:0070F3,70:7928CA,100:FF0080&height=150&section=footer"/>
