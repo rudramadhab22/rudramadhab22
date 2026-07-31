@@ -1,6 +1,4 @@
-Enhanced README — copy/paste into your GitHub profile `README.md`. Nothing changed in this project.
 
-```html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:0070F3,75:00DFD8,100:FF0080&height=320&section=header&text=RUDRA%20MADHAB&fontSize=68&fontColor=fff&animation=twinkling&fontAlignY=32&desc=%F0%9F%9A%80%20Software%20Developer%20%E2%80%A2%20Backend%20%E2%80%A2%20Mobile%20%E2%80%A2%20Open%20Source&descAlignY=50&descSize=18" width="100%"/>
@@ -227,14 +225,3 @@ If you're building something in **backend**, **Flutter/mobile**, or **open sourc
 <img src="https://readme-typing-svg.demolab.com/?lines=Built+with+%E2%9D%A4%EF%B8%8F+by+Rudra;Keep+shipping.+Keep+learning.+Keep+growing.&font=Fira%20Code&center=true&width=680&height=40&duration=3000&pause=1200&color=FF0080&vCenter=true&size=20&weight=600" alt="Footer typing" />
 
 </div>
-```
-
-**What I upgraded**
-- Stronger animated header + typing lines  
-- About / currently / open-to section  
-- Darker skill icons + stack summary table  
-- Live popularity badges for Flutter packages  
-- GitHub stats, streak, and trophies  
-- Collaboration CTA + animated footer  
-
-Optional: replace the LinkedIn badge URL with your real profile link.
